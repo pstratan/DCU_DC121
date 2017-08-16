@@ -1,3 +1,3 @@
-# dcu_DC121
+# DCU_DC121 - Bsc in Computer Applications 
 Help for students.
-Test.
+Feel free to contribute to the repo. 
